@@ -1,5 +1,5 @@
 ---
-title: "Контрольний зріз: <назва модуля>"
+title: "Тестовий контроль <N>. <назва модуля>"
 type: control-work
 module: <NN-module>
 duration: 30
