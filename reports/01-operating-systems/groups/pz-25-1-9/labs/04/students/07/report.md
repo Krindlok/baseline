@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Єремченко Арсеній"
+student: "Дєтков Нікіта"
 number: 7
 variant: 7
 ---

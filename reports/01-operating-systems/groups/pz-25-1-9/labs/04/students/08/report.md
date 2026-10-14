@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Забора Кирило"
+student: "Єремченко Арсеній"
 number: 8
 variant: 8
 ---

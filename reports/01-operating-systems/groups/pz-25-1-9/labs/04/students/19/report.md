@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Погудін Михайло"
+student: "Мостовик Ярослав"
 number: 19
 variant: 19
 ---

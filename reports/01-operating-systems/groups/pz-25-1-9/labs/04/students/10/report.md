@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Кадилкіна Ксенія"
+student: "Зубенко Марія"
 number: 10
 variant: 10
 ---

@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Прокопенко Софія"
+student: "Приказчиков Арсентій"
 number: 22
 variant: 2
 ---

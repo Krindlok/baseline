@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Зубенко Марія"
+student: "Забора Кирило"
 number: 9
 variant: 9
 ---

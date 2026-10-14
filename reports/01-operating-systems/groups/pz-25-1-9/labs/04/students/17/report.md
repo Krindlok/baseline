@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Лоза Данил"
+student: "Лапко Артем"
 number: 17
 variant: 17
 ---

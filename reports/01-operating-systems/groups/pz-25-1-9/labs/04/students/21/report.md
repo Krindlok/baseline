@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Приказчиков Арсентій"
+student: "Польний Денис"
 number: 21
 variant: 1
 ---

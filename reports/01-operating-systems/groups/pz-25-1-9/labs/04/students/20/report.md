@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Польний Денис"
+student: "Погудін Михайло"
 number: 20
 variant: 20
 ---

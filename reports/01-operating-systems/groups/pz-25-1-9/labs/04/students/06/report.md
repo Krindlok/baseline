@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Дєтков Нікіта"
+student: "Давидова Надія"
 number: 6
 variant: 6
 ---

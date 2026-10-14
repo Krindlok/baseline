@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 4
-student: "Кузьмич Олександр"
+student: "Краснюк Григорій"
 number: 15
 variant: 15
 ---
