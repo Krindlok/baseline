@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Давидова Надія"
+student: "Гуторов Андрій"
 number: 5
 variant: 5
 ---

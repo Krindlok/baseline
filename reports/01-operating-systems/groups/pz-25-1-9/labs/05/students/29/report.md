@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Ященков Антон"
+student: "Шведова Анастасія"
 number: 29
 variant: 9
 ---

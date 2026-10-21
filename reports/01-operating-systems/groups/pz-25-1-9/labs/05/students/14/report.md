@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Краснюк Григорій"
+student: "Краснов Іван"
 number: 14
 variant: 14
 ---

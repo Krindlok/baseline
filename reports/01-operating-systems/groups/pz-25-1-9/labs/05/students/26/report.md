@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Тіглий Микита"
+student: "Скрипник Костянтин"
 number: 26
 variant: 6
 ---

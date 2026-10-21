@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Грановська Єва"
+student: "Годований Нікіта Артемович"
 number: 3
 variant: 3
 ---

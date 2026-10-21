@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Сидоренко Іван"
+student: "Рясний Ілля"
 number: 24
 variant: 4
 ---

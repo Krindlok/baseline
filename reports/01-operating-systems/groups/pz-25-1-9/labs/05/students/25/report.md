@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Скрипник Костянтин"
+student: "Сидоренко Іван"
 number: 25
 variant: 5
 ---

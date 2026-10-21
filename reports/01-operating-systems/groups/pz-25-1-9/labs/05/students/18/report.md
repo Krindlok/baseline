@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Мостовик Ярослав"
+student: "Лоза Данил"
 number: 18
 variant: 18
 ---

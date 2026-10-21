@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Годований Нікіта Артемович"
+student: "Ященков Антон"
 number: 30
 variant: 10
 ---

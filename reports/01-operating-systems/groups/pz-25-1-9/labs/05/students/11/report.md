@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Коваленко Давид"
+student: "Кадилкіна Ксенія"
 number: 11
 variant: 11
 ---

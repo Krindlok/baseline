@@ -2,7 +2,7 @@
 course: 01-operating-systems
 group: pz-25-1-9
 lab: 5
-student: "Краснов Іван"
+student: "Козлова Ксенія"
 number: 13
 variant: 13
 ---
